@@ -7,7 +7,7 @@
 
 ```bash
 > Cybersecurity Technician
-> Blue Team | Infrastructure | Linux | Networks
+> Blue Team | Infrastructure | Linux | Networks | Code 
 ```
 
 ## 🛡️ Sobre mí
