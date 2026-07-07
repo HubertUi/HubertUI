@@ -46,36 +46,85 @@ every system tells a story
 
 ---
 
-## 🌐 ＮＥＴＷＯＲＫＩＮＧ
+## 🔎 ＳＥＣＵＲＩＴＹ　ＴＯＯＬＫＩＴ
 
 
-![Networking](https://skillicons.dev/icons?i=cloudflare)
+### 🌐 ＮＥＴＷＯＲＫ　＆　ＲＥＣＯＮ
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-Network-blue?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-Network-orange?style=for-the-badge)
-![FTTH](https://img.shields.io/badge/FTTH-Fiber-success?style=for-the-badge)
+`Nmap` · `Wireshark` · `OSINT`
 
----
 
-## ☁️ ＶＩＲＴＵＡＬＩＺＡＴＩＯＮ
-
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)
-
----
-
-## 🛡️ ＣＹＢＥＲＳＥＣＵＲＩＴＹ
-
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+![OSINT](https://img.shields.io/badge/OSINT-Research-blue?style=for-the-badge)
+
+
+---
+
+### 🌐 ＷＥＢ　ＳＥＣＵＲＩＴＹ
+
+`Burp Suite` · `OWASP` · `Nikto` · `SQLMap`
+
+
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Hashcat](https://img.shields.io/badge/Hashcat-111111?style=for-the-badge)
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+![Nikto](https://img.shields.io/badge/Nikto-Web_Scanner-green?style=for-the-badge)
+
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge)
+
+
+---
+
+### 🔐 ＣＲＥＤＥＮＴＩＡＬ　＆　ＰＡＳＳＷＯＲＤ　ＴＥＳＴＩＮＧ
+
+`Hashcat` · `John the Ripper` · `Hydra`
+
+
+![Hashcat](https://img.shields.io/badge/Hashcat-111111?style=for-the-badge)
+
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-Cryptography-red?style=for-the-badge)
+
+![Hydra](https://img.shields.io/badge/Hydra-Password_Testing-orange?style=for-the-badge)
+
+
+---
+
+### 📡 ＷＩＲＥＬＥＳＳ　ＳＥＣＵＲＩＴＹ
+
+`Aircrack-ng Suite`
+
+
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-Wireless_Testing-blue?style=for-the-badge)
+
+
+---
+
+### 🛡️ ＶＵＬＮＥＲＡＢＩＬＩＴＹ　ＡＳＳＥＳＳＭＥＮＴ
+
+`Wazuh` · `Nessus` · `Metasploit`
+
+
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+
+![Nessus](https://img.shields.io/badge/Nessus-Vulnerability_Scanner-00AEEF?style=for-the-badge)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+
+
+---
+
+### 🕵️ ＦＯＲＥＮＳＩＣＳ　＆　ＩＮＣＩＤＥＮＴ　ＲＥＳＰＯＮＳＥ
+
+`Autopsy` · `Sleuth Kit`
+
+
+![Autopsy](https://img.shields.io/badge/Autopsy-Digital_Forensics-black?style=for-the-badge)
+
+![Sleuth Kit](https://img.shields.io/badge/Sleuth_Kit-Forensics-grey?style=for-the-badge)
 
 ---
 
