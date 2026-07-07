@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/HHSec">
 <img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" />
 </a>
 
@@ -19,8 +19,7 @@ bash
 
 ### ＡＢＯＵＴ　ＭＥ
 
-######Ｉ'ｍ　ａ　Ｃｙｂｅｒｓｅｃｕｒｉｔｙ　Ｔｅｃｈｎｉｃｉａｎ　ｗｉｔｈ　ｈａｎｄｓ－ｏｎ　ｅｘｐｅｒｉｅｎｃｅ　ｉｎ　ＩＴ　ｉｎｆｒａｓｔｒｕｃｔｕｒｅ，　ｓｅｒｖｅｒ　ａｄｍｉｎｉｓｔｒａｔｉｏｎ，　ｎｅｔｗｏｒｋｉｎｇ　ａｎｄ　ｉｎｆｏｒｍａｔｉｏｎ　ｓｅｃｕｒｉｔｙ。
-
+I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, server administration, networking, and information security.
 
 ---
 <!-- Profile Picture -->
