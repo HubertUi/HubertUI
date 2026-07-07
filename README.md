@@ -141,7 +141,7 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 </p>
 
-## 📈 Contribution Graph
+## ⧗ Contribution Graph
 <br/>
 
 <a href="https://github.com/HubertUi">
