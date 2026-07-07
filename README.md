@@ -23,17 +23,22 @@ bash
 
 
 ---
-ＳＹＳＴＥＭ　ＰＨＩＬＯＳＯＰＨＹ 
+<!-- Profile Picture -->
+<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
-observe before acting understand before 
+```diff
+@@ ＳＹＳＴＥＭ　ＰＨＩＬＯＳＯＰＨＹ @@
 
-changing monitor before trusting 
++ 👁️ ＯＢＳＥＲＶＥ　ＢＥＦＯＲＥ　ＡＣＴＩＮＧ
++ 🧠 ＵＮＤＥＲＳＴＡＮＤ　ＢＥＦＯＲＥ　ＣＨＡＮＧＩＮＧ
++ 🛡️ ＭＯＮＩＴＯＲ　ＢＥＦＯＲＥ　ＴＲＵＳＴＩＮＧ
 
+# ＣＵＲＩＯＳＩＴＹ　·　ＤＩＳＣＩＰＬＩＮＥ　·　ＰＥＲＳＩＳＴＥＮＣＥ
 
-curiosity · discipline · persistence 
+! ＢＬＵＥ　ＴＥＡＭ　·　ＬＩＮＵＸ　·　ＮＥＴＷＯＲＫＩＮＧ
 
-
-every system tells a story
+@@ ＥＶＥＲＹ　ＳＹＳＴＥＭ　ＴＥＬＬＳ　Ａ　ＳＴＯＲＹ @@
+```
 
 # 💻 ＴＥＣＨ　ＳＴＡＣＫ
 
