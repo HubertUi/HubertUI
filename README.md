@@ -40,14 +40,26 @@ bash
 @@ ＥＶＥＲＹ　ＳＹＳＴＥＭ　ＴＥＬＬＳ　Ａ　ＳＴＯＲＹ @@
 ```
 
-# 💻 ＴＥＣＨ　ＳＴＡＣＫ
 
 ## 🖥️ ＯＰＥＲＡＴＩＮＧ　ＳＹＳＴＥＭＳ
 
-![Operating Systems](https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,windows)
+<p>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
+<img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=FCC624" height="25"/>
+
+<img src="https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420" height="25"/>
+
+<img src="https://img.shields.io/badge/Debian-05122A?style=flat&logo=debian&logoColor=A81D33" height="25"/>
+
+<img src="https://img.shields.io/badge/Red_Hat-05122A?style=flat&logo=redhat&logoColor=EE0000" height="25"/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=5C99C6" height="25"/>
+
+<img src="https://img.shields.io/badge/Alpine_Linux-05122A?style=flat&logo=alpinelinux&logoColor=0D597F" height="25"/>
+
+<img src="https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=0078D6" height="25"/>
+
+</p>
 
 ---
 
@@ -92,12 +104,42 @@ bash
 
 ## 💻 ＰＲＯＧＲＡＭＭＩＮＧ
 
-![Programming](https://skillicons.dev/icons?i=python,bash,html,css,js)
+<p>
+
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=FFD43B" height="25"/>
+
+<img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash&logoColor=4EAA25" height="25"/>
+
+<img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E" height="25"/>
+
+<img src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5&logoColor=E34F26" height="25"/>
+
+<img src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6" height="25"/>
+
+</p>
 
 ---
 
 ## 🔧 ＤＥＶＯＰＳ　＆　ＴＯＯＬＳ
 
-![Git](https://skillicons.dev/icons?i=git,github,vscode)
+<p>
+
+<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=F05032" height="25"/>
+
+<img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC" height="25"/>
+
+<img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=2496ED" height="25"/>
+
+<img src="https://img.shields.io/badge/Proxmox-05122A?style=flat&logo=proxmox&logoColor=E57000" height="25"/>
+
+<img src="https://img.shields.io/badge/VMware-05122A?style=flat&logo=vmware&logoColor=607078" height="25"/>
+
+<img src="https://img.shields.io/badge/VirtualBox-05122A?style=flat&logo=virtualbox&logoColor=2F61B4" height="25"/>
+
+<img src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37" height="25"/>
+
+</p>
 
 
