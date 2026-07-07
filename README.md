@@ -26,9 +26,12 @@ bash
 ＳＹＳＴＥＭ　ＰＨＩＬＯＳＯＰＨＹ 
 
 observe before acting understand before 
+
 changing monitor before trusting 
 
+
 curiosity · discipline · persistence 
+
 
 every system tells a story
 
