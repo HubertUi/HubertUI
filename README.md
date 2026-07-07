@@ -129,10 +129,6 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC" height="25"/>
 
-<img src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37" height="25"/>
-
-<img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=2496ED" height="25"/>
-
 <img src="https://img.shields.io/badge/Proxmox-05122A?style=flat&logo=proxmox&logoColor=E57000" height="25"/>
 
 <img src="https://img.shields.io/badge/VMware-05122A?style=flat&logo=vmware&logoColor=607078" height="25"/>
