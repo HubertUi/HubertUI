@@ -38,15 +38,6 @@ I'm a **Cybersecurity Technician** with hands-on experience in IT infrastructure
 
 ![Linux](https://skillicons.dev/icons?i=linux,ubuntu,debian,alpine,windows)
 
-## Networking
-
-- Switching
-- Routing
-- VLAN
-- FTTH
-- TCP/IP
-- DNS
-- DHCP
 
 ## Cybersecurity
 
@@ -56,12 +47,6 @@ I'm a **Cybersecurity Technician** with hands-on experience in IT infrastructure
 - Security Hardening
 - Network Security
 - Incident Response
-
-## Virtualization
-
-- Proxmox VE
-- VMware
-- VirtualBox
 
 ## Programming
 
