@@ -13,28 +13,26 @@
 </div>
 
 bash
-> Cybersecurity Technician
-> Blue Team | Infrastructure | Linux | Networking | Code
+ＣＹＢＥＲＳＥＣＵＲＩＴＹ　ＴＥＣＨＮＩＣＩＡＮ
+ＢＬＵＥ　ＴＥＡＭ　│　ＩＮＦＲＡＳＴＲＵＣＴＵＲＥ　│　ＬＩＮＵＸ　│　ＮＥＴＷＯＲＫＩＮＧ　│　ＣＯＤＥ
 
 
-# 🛡️ About Me
+# 🛡️ ＡＢＯＵＴ　ＭＥ
 
-I'm a *Cybersecurity Technician* with hands-on experience in IT infrastructure, server administration, networking, and information security.
+Ｉ'ｍ　ａ　Ｃｙｂｅｒｓｅｃｕｒｉｔｙ　Ｔｅｃｈｎｉｃｉａｎ　ｗｉｔｈ　ｈａｎｄｓ－ｏｎ　ｅｘｐｅｒｉｅｎｃｅ　ｉｎ　ＩＴ　ｉｎｆｒａｓｔｒｕｃｔｕｒｅ，　ｓｅｒｖｅｒ　ａｄｍｉｎｉｓｔｒａｔｉｏｎ，　ｎｅｔｗｏｒｋｉｎｇ　ａｎｄ　ｉｎｆｏｒｍａｔｉｏｎ　ｓｅｃｕｒｉｔｙ。
 
 
-
-- 🔐 Offensive & Defensive Security
-- 🐧 Linux Administration
-- 🌐 Enterprise Networking
-- ☁️ Proxmox Virtualization
-- 📊 SIEM & Security Monitoring
-- 🤖 Python & Bash Automation
-
+- 🔐 ＯＦＦＥＮＳＩＶＥ　＆　ＤＥＦＥＮＳＩＶＥ　ＳＥＣＵＲＩＴＹ
+- 🐧 ＬＩＮＵＸ　ＡＤＭＩＮＩＳＴＲＡＴＩＯＮ
+- 🌐 ＥＮＴＥＲＰＲＩＳＥ　ＮＥＴＷＯＲＫＩＮＧ
+- ☁️ ＰＲＯＸＭＯＸ　ＶＩＲＴＵＡＬＩＺＡＴＩＯＮ
+- 📊 ＳＩＥＭ　＆　ＳＥＣＵＲＩＴＹ　ＭＯＮＩＴＯＲＩＮＧ
+- 🤖 ＰＹＴＨＯＮ　＆　ＢＡＳＨ　ＡＵＴＯＭＡＴＩＯＮ
 ---
 
-# 💻 Tech Stack
+# 💻 ＴＥＣＨ　ＳＴＡＣＫ
 
-## 🖥️ Operating Systems
+## 🖥️ ＯＰＥＲＡＴＩＮＧ　ＳＹＳＴＥＭＳ
 
 ![Operating Systems](https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,windows)
 
@@ -43,7 +41,8 @@ I'm a *Cybersecurity Technician* with hands-on experience in IT infrastructure, 
 
 ---
 
-## 🌐 Networking
+## 🌐 ＮＥＴＷＯＲＫＩＮＧ
+
 
 ![Networking](https://skillicons.dev/icons?i=cloudflare)
 
@@ -54,7 +53,7 @@ I'm a *Cybersecurity Technician* with hands-on experience in IT infrastructure, 
 
 ---
 
-## ☁️ Virtualization
+## ☁️ ＶＩＲＴＵＡＬＩＺＡＴＩＯＮ
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
@@ -62,7 +61,7 @@ I'm a *Cybersecurity Technician* with hands-on experience in IT infrastructure, 
 
 ---
 
-## 🛡️ Cybersecurity
+## 🛡️ ＣＹＢＥＲＳＥＣＵＲＩＴＹ
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
@@ -75,13 +74,13 @@ I'm a *Cybersecurity Technician* with hands-on experience in IT infrastructure, 
 
 ---
 
-## 💻 Programming
+## 💻 ＰＲＯＧＲＡＭＭＩＮＧ
 
 ![Programming](https://skillicons.dev/icons?i=python,bash,html,css,js)
 
 ---
 
-## 🔧 DevOps & Tools
+## 🔧 ＤＥＶＯＰＳ　＆　ＴＯＯＬＳ
 
 ![Git](https://skillicons.dev/icons?i=git,github,vscode)
 
