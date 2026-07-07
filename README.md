@@ -1,4 +1,6 @@
-<br>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWk5aTZraTJzMjV1ZnRmdjdlNWJjdHpwbnhvdHY3YnBoODdxOHM2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fRwPZtbWkkX6/giphy.gif" width="700" alt="Cybersecurity GIF">
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola!+👋;+Soy+Hubert+Huisa!;" />
 
