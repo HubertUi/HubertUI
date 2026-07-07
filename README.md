@@ -141,13 +141,13 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 </p>
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 <br/>
 
 <a href="https://github.com/HubertUi">
   <img
     alt="HubertUi's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=HubertUi&custom_title=HubertUi's%20Contribution%20Graph&theme=react-dark"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HubertUi&custom_title=HubertUi's%20Contribution%20Graph&theme=react-dark"
   />
 </a>
 
