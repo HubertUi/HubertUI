@@ -24,6 +24,7 @@ bash
 
 ---
 ＳＹＳＴＥＭ　ＰＨＩＬＯＳＯＰＨＹ 
+
 observe before acting understand before 
 changing monitor before trusting 
 
