@@ -36,7 +36,8 @@ I'm a **Cybersecurity Technician** with hands-on experience in IT infrastructure
 
 ## Operating Systems
 
-![Linux](https://skillicons.dev/icons?i=linux,ubuntu,debian,kali-linux,alpine,windows)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
 
 
 ## Cybersecurity
