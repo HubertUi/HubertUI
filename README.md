@@ -141,8 +141,7 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HubertUi&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+## Contribution Graph
+  <br/>
+   <a href="https://github.com/HubertUi"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HubertUi&custom_title=Shibin'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
