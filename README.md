@@ -151,18 +151,4 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
   />
 </a>
 
-<br/>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/HubertUi/HubertUi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/HubertUi/HubertUi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HubertUi&label=Profile%20Views&color=blueviolet&style=flat" alt="HubertUi" />
-</p>
-
-<details>
-  <summary>📃 Resume</summary>
-
-  <!-- Aquí va el contenido de tu resumen -->
-
-</details>
