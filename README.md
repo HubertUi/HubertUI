@@ -1,43 +1,46 @@
-<div align="Center">
+<div align="center">
 
-<a href="https://github.com/CtorW">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" />
 </a>
 
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola!+👋;+Soy+Hubert+Huisa!;" />
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+there!+👋;I'm+Hubert+Huisa!;" />
+
+</div>
 
 ```bash
 > Cybersecurity Technician
-> Blue Team | Infrastructure | Linux | Networks | Code 
+> Blue Team | Infrastructure | Linux | Networking | Code
 ```
 
-## 🛡️ Sobre mí
+# 🛡️ About Me
 
-Soy Técnico en Ingeniería de Ciberseguridad con experiencia práctica en infraestructura TI, administración de servidores, redes y seguridad informática.
+I'm a **Cybersecurity Technician** with hands-on experience in IT infrastructure, server administration, networking, and information security.
 
-Me apasiona aprender continuamente, automatizar procesos y fortalecer la seguridad de los sistemas mediante buenas prácticas, análisis de vulnerabilidades y monitoreo de infraestructura.
+I'm passionate about continuous learning, process automation, and strengthening system security through best practices, vulnerability assessments, and infrastructure monitoring.
 
-Actualmente me encuentro ampliando mis conocimientos en:
+Currently expanding my knowledge in:
 
-- 🔐 Seguridad Ofensiva y Defensiva
+- 🔐 Offensive & Defensive Security
 - 🐧 Linux Administration
 - 🌐 Enterprise Networking
-- ☁️ Virtualización con Proxmox
-- 📊 SIEM y Monitoreo
-- 🤖 Automatización con Python y Bash
+- ☁️ Proxmox Virtualization
+- 📊 SIEM & Security Monitoring
+- 🤖 Python & Bash Automation
 
 ---
 
-## ⚡ Tecnologías
+# ⚡ Tech Stack
 
-### Operating Systems
+## Operating Systems
+
 ![Linux](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)
 
-### Networking
-![Networking](https://skillicons.dev/icons?i=cloudflare)
+## Networking
 
 - Switching
 - Routing
@@ -47,26 +50,26 @@ Actualmente me encuentro ampliando mis conocimientos en:
 - DNS
 - DHCP
 
-### Security
+## Cybersecurity
 
 - Vulnerability Assessment
 - OWASP
 - Risk Analysis
-- Hardening
+- Security Hardening
 - Network Security
 - Incident Response
 
-### Virtualization
+## Virtualization
 
 - Proxmox VE
-- VirtualBox
 - VMware
+- VirtualBox
 
-### Programming
+## Programming
 
 ![Programming](https://skillicons.dev/icons?i=python,bash,html,css,js)
 
-### Tools
+## Tools
 
 - Git
 - GitHub
@@ -81,68 +84,71 @@ Actualmente me encuentro ampliando mis conocimientos en:
 
 ---
 
-## 💼 Experiencia
+# 💼 Professional Experience
 
-### 🔹 NOC Support
-- Monitoreo de infraestructura FTTH.
-- Diagnóstico y resolución de incidencias de red.
-- Configuración de equipos ONT y routers.
+## 🔹 NOC Support
 
-### 🔹 Cybersecurity & Infrastructure
-- Administración de servidores Proxmox.
-- Implementación de servicios TI.
-- Soporte de infraestructura y telecomunicaciones.
+- Monitored FTTH network infrastructure.
+- Diagnosed and resolved network connectivity issues.
+- Configured and maintained ONTs and residential routers.
 
-### 🔹 IT Support
-- Soporte técnico a usuarios.
-- Administración básica de sistemas.
-- Mantenimiento de equipos de cómputo.
+## 🔹 Cybersecurity & IT Infrastructure
+
+- Managed Proxmox virtualization servers.
+- Assisted in IT service deployment.
+- Supported network and telecommunications infrastructure.
+
+## 🔹 IT Support
+
+- Provided technical support to end users.
+- Performed computer maintenance and troubleshooting.
+- Assisted in IT infrastructure management.
 
 ---
 
-## 🏆 Certificaciones
+# 🏆 Certifications
 
-- Cisco CCNA 7 - Introduction to Networks
-- Cisco CCNA 7 - Switching, Routing and Wireless Essentials
-- Cisco CCNA 7 - Enterprise Networking, Security and Automation
-- Cisco Network Support and Security
+- Cisco CCNA 7 – Introduction to Networks
+- Cisco CCNA 7 – Switching, Routing and Wireless Essentials
+- Cisco CCNA 7 – Enterprise Networking, Security and Automation
+- Cisco – Network Support & Security
 - Red Hat System Administration II
 
 ---
 
-## 🚀 Proyecto Destacado
+# 🚀 Featured Project
 
-### NASA International Space Apps Challenge
+## NASA International Space Apps Challenge
 
-Participación en un equipo multidisciplinario desarrollando una plataforma educativa interactiva orientada a la divulgación científica mediante tecnologías web.
-
----
-
-## 🎯 Actualmente
-
-- 📚 Aprendiendo Blue Team
-- 🔍 Profundizando en Wazuh
-- 🐍 Automatización con Python y Bash
-- ☁️ Infraestructura y Virtualización
+Participated in a multidisciplinary team to develop an interactive educational platform focused on science outreach using modern web technologies.
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 Currently Learning
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+- 📘 Blue Team Operations
+- 🔍 Wazuh SIEM
+- 🐍 Python & Bash Automation
+- ☁️ Infrastructure & Virtualization
 
 ---
 
-## 🤝 Conecta conmigo
+# 📊 GitHub Statistics
 
-Si te interesa colaborar en proyectos relacionados con:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-- Cybersecurity
-- Linux
-- Networking
-- Infrastructure
-- Automation
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-No dudes en contactarme a través de GitHub.
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on projects related to:
+
+- 🛡️ Cybersecurity
+- 🐧 Linux
+- 🌐 Networking
+- ☁️ Infrastructure
+- 🤖 Automation
+
+Feel free to connect with me here on GitHub!
