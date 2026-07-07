@@ -162,7 +162,7 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 ---
 
-### ◉ＣＯＮＴＡＣＴ
+### ◉ ＣＯＮＴＡＣＴ
 
 <p align="center">
 
