@@ -159,8 +159,8 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-05122A?style=flat&logo=cisco&logoColor=1BA0D7" height="25"/>
 
 </p>
----
 
+---
 
 ### ◉ＣＯＮＴＡＣＴ
 
@@ -170,17 +170,18 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=flat&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/TU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-1F1F1F?style=flat&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://www.linkedin.com/in/hubert-huisa-merma-669452318/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1F1F1F?style=flat&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:tucorreo@correo.com">
-<img src="https://img.shields.io/badge/Email-1F1F1F?style=flat&logo=gmail&logoColor=EA4335"/>
+<a href="mailto:hubert.huisa14@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1F1F1F?style=flat&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </p>
 
 ---
+
 ### ⧗ ＣＯＮＴＲＩＢＵＴＩＯＮ　ＧＲＡＰＨ
 <br/>
 
