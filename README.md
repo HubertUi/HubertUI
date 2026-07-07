@@ -100,7 +100,7 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 ---
 
-###⧉ ＰＲＯＧＲＡＭＭＩＮＧ
+### ⧉ ＰＲＯＧＲＡＭＭＩＮＧ
 
 <p>
 
