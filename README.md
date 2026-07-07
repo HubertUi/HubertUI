@@ -129,6 +129,8 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC" height="25"/>
 
+<img src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37" height="25"/>
+
 <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=2496ED" height="25"/>
 
 <img src="https://img.shields.io/badge/Proxmox-05122A?style=flat&logo=proxmox&logoColor=E57000" height="25"/>
@@ -137,7 +139,29 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 <img src="https://img.shields.io/badge/VirtualBox-05122A?style=flat&logo=virtualbox&logoColor=2F61B4" height="25"/>
 
-<img src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37" height="25"/>
+<img src="https://img.shields.io/badge/Notion-05122A?style=flat&logo=notion&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino&logoColor=00979D" height="25"/>
+
+<img src="https://img.shields.io/badge/ESP32-05122A?style=flat&logo=espressif&logoColor=E7352C" height="25"/>
+
+<img src="https://img.shields.io/badge/Raspberry_Pi-05122A?style=flat&logo=raspberrypi&logoColor=A22846" height="25"/>
+
+<img src="https://img.shields.io/badge/Pi--hole-05122A?style=flat&logo=pihole&logoColor=96060C" height="25"/>
+
+<img src="https://img.shields.io/badge/Cloudflare-05122A?style=flat&logo=cloudflare&logoColor=F38020" height="25"/>
+
+<img src="https://img.shields.io/badge/nginx-05122A?style=flat&logo=nginx&logoColor=009639" height="25"/>
+
+<img src="https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache&logoColor=D22128" height="25"/>
+
+<img src="https://img.shields.io/badge/pfSense-05122A?style=flat&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/OPNsense-05122A?style=flat&logo=opnsense&logoColor=F15A29" height="25"/>
+
+<img src="https://img.shields.io/badge/PuTTY-05122A?style=flat&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-05122A?style=flat&logo=cisco&logoColor=1BA0D7" height="25"/>
 
 </p>
 
