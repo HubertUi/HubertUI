@@ -21,9 +21,7 @@
 
 I'm a **Cybersecurity Technician** with hands-on experience in IT infrastructure, server administration, networking, and information security.
 
-I'm passionate about continuous learning, process automation, and strengthening system security through best practices, vulnerability assessments, and infrastructure monitoring.
 
-Currently expanding my knowledge in:
 
 - 🔐 Offensive & Defensive Security
 - 🐧 Linux Administration
@@ -38,7 +36,7 @@ Currently expanding my knowledge in:
 
 ## Operating Systems
 
-![Linux](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)
+![Linux](https://skillicons.dev/icons?i=linux,ubuntu,debian,proxmox,windows)
 
 ## Networking
 
