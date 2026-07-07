@@ -13,8 +13,8 @@
 </div>
 
 bash
-ＣＹＢＥＲＳＥＣＵＲＩＴＹ　ＴＥＣＨＮＩＣＩＡＮ
-ＢＬＵＥ　ＴＥＡＭ　│　ＩＮＦＲＡＳＴＲＵＣＴＵＲＥ　│　ＬＩＮＵＸ　│　ＮＥＴＷＯＲＫＩＮＧ　│　ＣＯＤＥ
+> Cybersecurity Technician
+> Blue Team | Infrastructure | Linux | Networking | Code
 
 
 # 🛡️ ＡＢＯＵＴ　ＭＥ
