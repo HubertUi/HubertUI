@@ -70,31 +70,29 @@ bash
 
 `Nmap` · `Wireshark` · `OSINT` · `Shodan`
 
----
 
 ### 🌐 ＷＥＢ　ＳＥＣＵＲＩＴＹ
 
 `Burp Suite` · `OWASP` · `Nikto` · `SQLMap`
 
----
 
 ### 🔐 ＣＲＥＤＥＮＴＩＡＬ　＆　ＰＡＳＳＷＯＲＤ　ＴＥＳＴＩＮＧ
 
 `Hashcat` · `John the Ripper` · `Hydra`
 
----
+
 
 ### 📡 ＷＩＲＥＬＥＳＳ　ＳＥＣＵＲＩＴＹ
 
 · `OWISAM` · `Aircrack-ng Suite`
 
----
+
 
 ### 🛡️ ＶＵＬＮＥＲＡＢＩＬＩＴＹ　ＡＳＳＥＳＳＭＥＮＴ
 
 `Wazuh` · `Nessus` · `Metasploit`
 
----
+
 
 ### 🕵️ ＦＯＲＥＮＳＩＣＳ　＆　ＩＮＣＩＤＥＮＴ　ＲＥＳＰＯＮＳＥ
 
