@@ -17,8 +17,7 @@ bash
 > Cybersecurity Technician
 > Blue Team | Infrastructure | Linux | Networking | Code
 
-
-### ＡＢＯＵＴ　ＭＥ
+##ＡＢＯＵＴ　ＭＥ
 
 I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, server administration, networking, and information security.
 
@@ -41,7 +40,7 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 ```
 
 
-### ⌬ ＯＰＥＲＡＴＩＮＧ　ＳＹＳＴＥＭＳ
+###⌬ ＯＰＥＲＡＴＩＮＧ　ＳＹＳＴＥＭＳ
 
 <p>
 
@@ -63,45 +62,45 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 ---
 
-### ⌬ ＳＥＣＵＲＩＴＹ　ＴＯＯＬＫＩＴ
+###⌬ ＳＥＣＵＲＩＴＹ　ＴＯＯＬＫＩＴ
 
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
-####  ＮＥＴＷＯＲＫ　＆　ＲＥＣＯＮ
+####ＮＥＴＷＯＲＫ　＆　ＲＥＣＯＮ
 
 `Nmap` · `Wireshark` · `OSINT` · `Shodan`
 
 
-####  ＷＥＢ　ＳＥＣＵＲＩＴＹ
+####ＷＥＢ　ＳＥＣＵＲＩＴＹ
 
 `Burp Suite` · `OWASP` · `Nikto` · `SQLMap`
 
 
-####  ＣＲＥＤＥＮＴＩＡＬ　＆　ＰＡＳＳＷＯＲＤ　ＴＥＳＴＩＮＧ
+####ＣＲＥＤＥＮＴＩＡＬ　＆　ＰＡＳＳＷＯＲＤ　ＴＥＳＴＩＮＧ
 
 `Hashcat` · `John the Ripper` · `Hydra`
 
 
 
-####  ＷＩＲＥＬＥＳＳ　ＳＥＣＵＲＩＴＹ
+####ＷＩＲＥＬＥＳＳ　ＳＥＣＵＲＩＴＹ
 
 · `OWISAM` · `Aircrack-ng Suite`
 
 
 
-####  ＶＵＬＮＥＲＡＢＩＬＩＴＹ　ＡＳＳＥＳＳＭＥＮＴ
+####ＶＵＬＮＥＲＡＢＩＬＩＴＹ　ＡＳＳＥＳＳＭＥＮＴ
 
 `Wazuh` · `Nessus` · `Metasploit`
 
 
 
-####  ＦＯＲＥＮＳＩＣＳ　＆　ＩＮＣＩＤＥＮＴ　ＲＥＳＰＯＮＳＥ
+####ＦＯＲＥＮＳＩＣＳ　＆　ＩＮＣＩＤＥＮＴ　ＲＥＳＰＯＮＳＥ
 
 `Autopsy` · `Sleuth Kit`
 
 ---
 
-### ⧉ ＰＲＯＧＲＡＭＭＩＮＧ
+###⧉ ＰＲＯＧＲＡＭＭＩＮＧ
 
 <p>
 
@@ -119,7 +118,7 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 ---
 
-### ⛶ ＤＥＶＯＰＳ　＆　ＴＯＯＬＳ
+###⛶ ＤＥＶＯＰＳ　＆　ＴＯＯＬＳ
 
 <p>
 
@@ -160,7 +159,27 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-05122A?style=flat&logo=cisco&logoColor=1BA0D7" height="25"/>
 
 </p>
-### ＣＯＮＴＡＣＴ
+---
+###ＴＯＯＬＳ
+
+<p align="center">
+
+<a href="https://github.com/HubertUi">
+<img src="https://img.shields.io/badge/GitHub-1F1F1F?style=flat&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/TU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-1F1F1F?style=flat&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:tucorreo@correo.com">
+<img src="https://img.shields.io/badge/Email-1F1F1F?style=flat&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</p>
+---
+
+###◉ＣＯＮＴＡＣＴ
 
 <p align="center">
 
@@ -178,7 +197,8 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 
 </p>
 
-### ⧗ Contribution Graph
+---
+###⧗ ＣＯＮＴＲＩＢＵＴＩＯＮ　ＧＲＡＰＨ
 <br/>
 
 <a href="https://github.com/HubertUi">
