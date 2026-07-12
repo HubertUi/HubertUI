@@ -170,7 +170,7 @@ I'm a Cybersecurity Technician with hands-on experience in IT infrastructure, se
 <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=flat&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/hubert-huisa-merma-669452318/" target="_blank">
+<a href="www.linkedin.com/in/hubert-huisa-669452318/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1F1F1F?style=flat&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
